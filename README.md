@@ -49,8 +49,20 @@ This project provides a complete solution for managing clinical operations, incl
 - **[USER_STORIES.md](./USER_STORIES.md)** - 181 user stories organized by module with acceptance criteria
 
 ### Technical Documents
-- **[DATABASE_SCHEMA.md](./DATABASE_SCHEMA.md)** - Complete PostgreSQL database design with 38 tables
+- **[DATABASE_SCHEMA.md](./DATABASE_SCHEMA.md)** - Complete PostgreSQL database design with 38+ tables
 - **[API_ENDPOINTS.md](./API_ENDPOINTS.md)** - RESTful API documentation with request/response examples
+- **[UI_UX_SPECIFICATIONS.md](./UI_UX_SPECIFICATIONS.md)** - Complete design system, wireframes, and user interface specifications
+- **[BUSINESS_LOGIC_WORKFLOWS.md](./BUSINESS_LOGIC_WORKFLOWS.md)** - Business rules, calculations, validations, and workflows
+- **[INTEGRATION_SPECIFICATIONS.md](./INTEGRATION_SPECIFICATIONS.md)** - AFIP, SMS, Email, WhatsApp, Mercado Pago, HL7, and S3 integration guides
+- **[SECURITY_REQUIREMENTS.md](./SECURITY_REQUIREMENTS.md)** - Security specifications and Argentine Data Protection Law (Ley 25.326) compliance
+- **[TESTING_STRATEGY.md](./TESTING_STRATEGY.md)** - Comprehensive testing approach, quality gates, and CI/CD pipeline
+
+### Advanced Features
+- **[ADVANCED_FEATURES.md](./ADVANCED_FEATURES.md)** - Ultra-flexible scheduling system, comprehensive reporting (16 report types), and granular role management (100+ permissions)
+- **[WORKFLOW_ENGINE.md](./WORKFLOW_ENGINE.md)** - Complete workflow and approval system with 7 pre-built workflows
+- **[COMPLETE_SYSTEM_FEATURES.md](./COMPLETE_SYSTEM_FEATURES.md)** - Image/document management (DICOM), import/export, API integrations, AI/ML integration, and patient portal
+- **[COMMUNICATION_AND_NOTIFICATIONS.md](./COMMUNICATION_AND_NOTIFICATIONS.md)** - Appointment reminders, communication templates, patient preferences, bulk messaging, and two-way communication
+- **[ADDITIONAL_FEATURES.md](./ADDITIONAL_FEATURES.md)** - Referral management, prior authorization, clinical templates, audit logging, consent management, patient surveys, and backup/disaster recovery
 
 ---
 
@@ -409,17 +421,32 @@ For licensing inquiries, please contact: [Your Contact Information]
 
 ## Quick Links
 
+### Core Documentation
 - [Functional Specification](./FUNCTIONAL_SPECIFICATION.md) - What the system does
 - [Project Roadmap](./PROJECT_ROADMAP.md) - When features will be delivered
 - [User Stories](./USER_STORIES.md) - Detailed user requirements
 - [Database Schema](./DATABASE_SCHEMA.md) - Data structure
 - [API Documentation](./API_ENDPOINTS.md) - API reference
 
+### Design & Technical Specifications
+- [UI/UX Specifications](./UI_UX_SPECIFICATIONS.md) - Design system and wireframes
+- [Business Logic & Workflows](./BUSINESS_LOGIC_WORKFLOWS.md) - Business rules and calculations
+- [Integration Specifications](./INTEGRATION_SPECIFICATIONS.md) - External service integrations
+- [Security Requirements](./SECURITY_REQUIREMENTS.md) - Security and compliance
+- [Testing Strategy](./TESTING_STRATEGY.md) - Quality assurance approach
+
+### Advanced Features
+- [Advanced Features](./ADVANCED_FEATURES.md) - Flexible scheduling, reporting, and roles
+- [Workflow Engine](./WORKFLOW_ENGINE.md) - Approval workflows and task management
+- [Complete System Features](./COMPLETE_SYSTEM_FEATURES.md) - DICOM, AI/ML, patient portal
+- [Communication & Notifications](./COMMUNICATION_AND_NOTIFICATIONS.md) - Reminders and messaging
+- [Additional Features](./ADDITIONAL_FEATURES.md) - Referrals, authorizations, surveys, backups
+
 ---
 
 **Version:** 1.0.0
-**Last Updated:** 2025-11-15
-**Status:** Planning Phase
+**Last Updated:** 2025-11-16
+**Status:** Planning Phase - Specifications Complete
 **Target Launch:** Q2 2026 (MVP)
 
 ---
