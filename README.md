@@ -56,6 +56,7 @@ This project provides a complete solution for managing clinical operations, incl
 - **[INTEGRATION_SPECIFICATIONS.md](./INTEGRATION_SPECIFICATIONS.md)** - AFIP, SMS, Email, WhatsApp, Mercado Pago, HL7, and S3 integration guides
 - **[SECURITY_REQUIREMENTS.md](./SECURITY_REQUIREMENTS.md)** - Security specifications and Argentine Data Protection Law (Ley 25.326) compliance
 - **[TESTING_STRATEGY.md](./TESTING_STRATEGY.md)** - Comprehensive testing approach, quality gates, and CI/CD pipeline
+- **[SYSTEM_CONFIGURATION.md](./SYSTEM_CONFIGURATION.md)** - System settings management, multi-location configuration, templates, and feature flags
 
 ### Advanced Features
 - **[ADVANCED_FEATURES.md](./ADVANCED_FEATURES.md)** - Ultra-flexible scheduling system, comprehensive reporting (16 report types), and granular role management (100+ permissions)
@@ -434,6 +435,7 @@ For licensing inquiries, please contact: [Your Contact Information]
 - [Integration Specifications](./INTEGRATION_SPECIFICATIONS.md) - External service integrations
 - [Security Requirements](./SECURITY_REQUIREMENTS.md) - Security and compliance
 - [Testing Strategy](./TESTING_STRATEGY.md) - Quality assurance approach
+- [System Configuration](./SYSTEM_CONFIGURATION.md) - Settings management and multi-location support
 
 ### Advanced Features
 - [Advanced Features](./ADVANCED_FEATURES.md) - Flexible scheduling, reporting, and roles
