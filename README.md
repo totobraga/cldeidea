@@ -47,6 +47,7 @@ This project provides a complete solution for managing clinical operations, incl
 - **[FUNCTIONAL_SPECIFICATION.md](./FUNCTIONAL_SPECIFICATION.md)** - Complete feature breakdown with 14 modules covering all aspects of clinical management
 - **[PROJECT_ROADMAP.md](./PROJECT_ROADMAP.md)** - 6-phase implementation plan with detailed sprint breakdown (MVP in 8-10 weeks)
 - **[USER_STORIES.md](./USER_STORIES.md)** - 181 user stories organized by module with acceptance criteria
+- **[GAP_ANALYSIS_AND_MISSING_FEATURES.md](./GAP_ANALYSIS_AND_MISSING_FEATURES.md)** - Comprehensive gap analysis comparing with modern clinical systems, identifies missing features for Argentina
 
 ### Technical Documents
 - **[DATABASE_SCHEMA.md](./DATABASE_SCHEMA.md)** - Complete PostgreSQL database design with 38+ tables
